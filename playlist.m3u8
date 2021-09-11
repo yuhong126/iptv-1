@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://39.134.155.135/PLTV/88888888/224/3221225605/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
 http://140.207.241.2:8080/live/program/live/cctv3hd/4000000/mnf.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
@@ -12,7 +12,7 @@ http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8#http://dbi
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
 http://140.207.241.2:8080/live/program/live/cctv6hd/4000000/mnf.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8#http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
+http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
 
 
 #EXTINF:-1 tvg-id="141" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",TVB翡翠台
