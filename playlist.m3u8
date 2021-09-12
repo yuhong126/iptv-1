@@ -37,7 +37,7 @@ http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226144/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
