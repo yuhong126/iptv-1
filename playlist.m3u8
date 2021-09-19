@@ -49,9 +49,9 @@ http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
 http://39.135.140.104:6610/PLTV/88888888/224/3221225659/2/index.m3u8?fmt=ts2hls
 #http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-speed="1905.0KB/s" group-title="卫视",河南卫视
+#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="30" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-speed="4608.0KB/s" group-title="卫视",山东卫视
+#EXTINF:-1 tvg-id="30" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221225484/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="35" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
