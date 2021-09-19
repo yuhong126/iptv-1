@@ -33,7 +33,8 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
+http://39.135.140.104:6610/PLTV/88888888/224/3221225490/2/index.m3u8?fmt=ts2hls
+#http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://39.134.39.39/PLTV/88888888/224/3221226144/index.m3u8
@@ -45,8 +46,13 @@ http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
+http://39.135.140.104:6610/PLTV/88888888/224/3221225659/2/index.m3u8?fmt=ts2hls
+#http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-speed="1905.0KB/s" group-title="卫视",河南卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="30" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-speed="4608.0KB/s" group-title="卫视",山东卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221225484/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="35" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
