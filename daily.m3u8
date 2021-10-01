@@ -1,181 +1,183 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-speed="17825.3KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-1综合
-http://39.135.89.100:6610/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河12M
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-speed="14111.4KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-2财经
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-speed="20599.4KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-1综合
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-speed="15500.5KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-2财经
 http://39.135.89.100:6610/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-speed="9805.2KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-3综艺
-http://39.135.140.104:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-speed="20338.1KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-4中文国际
-http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8$陕西12M
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-speed="17912.1KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-5体育
-http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8$陕西12M
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-speed="9804.1KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-6电影
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-speed="9875.9KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-3综艺
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-speed="15352.1KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-4中文国际
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-speed="20186.1KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-5体育
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河12M
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-speed="9821.0KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-6电影
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-speed="12946.1KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-7国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-speed="12506.8KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-7国防军事
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-speed="9807.0KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-8电视剧
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225630/index.m3u8$广西移动8M
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-speed="10312.5KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-9纪录
-http://39.135.140.104:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-speed="10304.9KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-10科教
-http://39.135.140.104:6610/PLTV/88888888/224/3221225636/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-speed="9809.2KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-11戏曲
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225750/index.m3u8$广西移动8M
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-speed="10506.0KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-12社会与法
-http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8$江苏8M
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-speed="10390.7KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
-http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8$银河
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-speed="9841.2KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-14少儿
-http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8$江苏8M
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-speed="9804.5KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-15音乐
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-speed="9808.5KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-8电视剧
+http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-speed="10332.5KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-9纪录
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-speed="10337.2KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-10科教
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-speed="9857.1KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-11戏曲
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8$北京8M
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-speed="10224.0KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-12社会与法
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-speed="10327.3KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-speed="10081.9KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-14少儿
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-speed="9803.9KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-15音乐
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225830/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-speed="9806.8KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-17农村农业
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833/index.m3u8$广西移动8M
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-speed="18563.9KB/s" tvg-rez="1920x1080" group-title="卫视",湖南卫视
-http://39.135.89.100:6610/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-speed="18475.0KB/s" tvg-rez="1920x1080" group-title="卫视",浙江卫视
-http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$陕西12M
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-speed="17622.4KB/s" tvg-rez="1920x1080" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-speed="9806.1KB/s" tvg-rez="1920x1080" group-title="央视",CCTV-17农村农业
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-speed="16719.9KB/s" tvg-rez="1920x1080" group-title="卫视",湖南卫视
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-speed="18473.2KB/s" tvg-rez="1920x1080" group-title="卫视",浙江卫视
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-speed="12164.7KB/s" tvg-rez="1920x1080" group-title="卫视",江苏卫视
 http://39.135.89.100:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-speed="15572.6KB/s" tvg-rez="1920x1080" group-title="卫视",北京卫视
-http://39.134.19.18/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$陕西12M
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-speed="15647.9KB/s" tvg-rez="1920x1080" group-title="卫视",东方卫视
-http://39.135.89.100:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-speed="15537.0KB/s" tvg-rez="1920x1080" group-title="卫视",安徽卫视
-http://39.135.89.100:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-speed="15517.3KB/s" tvg-rez="1920x1080" group-title="卫视",北京卫视
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-speed="15695.4KB/s" tvg-rez="1920x1080" group-title="卫视",东方卫视
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-speed="15483.4KB/s" tvg-rez="1920x1080" group-title="卫视",安徽卫视
+http://39.134.19.8/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8$陕西12M
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-speed="15639.4KB/s" tvg-rez="1920x1080" group-title="卫视",广东卫视
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" tvg-speed="15510.7KB/s" tvg-rez="1920x1080" group-title="卫视",深圳卫视
-http://39.135.89.100:6610/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-speed="15582.9KB/s" tvg-rez="1920x1080" group-title="卫视",辽宁卫视
-http://39.135.89.100:6610/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" tvg-speed="10416.0KB/s" tvg-rez="1920x1080" group-title="卫视",海南卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" tvg-speed="15571.0KB/s" tvg-rez="1920x1080" group-title="卫视",深圳卫视
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-speed="15675.1KB/s" tvg-rez="1920x1080" group-title="卫视",辽宁卫视
+http://39.134.19.42/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8$陕西12M
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" tvg-speed="10418.6KB/s" tvg-rez="1920x1080" group-title="卫视",海南卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-speed="15608.4KB/s" tvg-rez="1920x1080" group-title="卫视",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-speed="15532.4KB/s" tvg-rez="1920x1080" group-title="卫视",山东卫视
 http://39.135.89.100:6610/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-speed="15556.6KB/s" tvg-rez="1920x1080" group-title="卫视",天津卫视
-http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8$陕西12M
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-speed="10372.3KB/s" tvg-rez="1920x1080" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-speed="15536.8KB/s" tvg-rez="1920x1080" group-title="卫视",天津卫视
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-speed="10325.3KB/s" tvg-rez="1920x1080" group-title="卫视",重庆卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221225612/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-speed="10334.9KB/s" tvg-rez="1920x1080" group-title="卫视",东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-speed="10374.1KB/s" tvg-rez="1920x1080" group-title="卫视",东南卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221225585/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-speed="2984.9KB/s" tvg-rez="720x576" group-title="卫视",甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-speed="2889.2KB/s" tvg-rez="720x576" group-title="卫视",甘肃卫视
 http://60.255.49.202/live/gsws_4000.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-speed="10333.8KB/s" tvg-rez="1920x1080" group-title="卫视",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-speed="10336.9KB/s" tvg-rez="1920x1080" group-title="卫视",广西卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" tvg-speed="10320.4KB/s" tvg-rez="1920x1080" group-title="卫视",贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" tvg-speed="10363.5KB/s" tvg-rez="1920x1080" group-title="卫视",贵州卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221225483/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" tvg-speed="10393.2KB/s" tvg-rez="1920x1080" group-title="卫视",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" tvg-speed="10580.5KB/s" tvg-rez="1920x1080" group-title="卫视",河北卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" tvg-speed="15471.4KB/s" tvg-rez="1920x1080" group-title="卫视",黑龙江卫视
-http://39.134.19.19/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-speed="10420.8KB/s" tvg-rez="1920x1080" group-title="卫视",河南卫视
-http://39.135.140.104:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-speed="15549.5KB/s" tvg-rez="1920x1080" group-title="卫视",湖北卫视
-http://39.134.19.9/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8$陕西12M
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-speed="10357.3KB/s" tvg-rez="1920x1080" group-title="卫视",江西卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" tvg-speed="15557.4KB/s" tvg-rez="1920x1080" group-title="卫视",黑龙江卫视
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-speed="11315.6KB/s" tvg-rez="1920x1080" group-title="卫视",河南卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-speed="15520.5KB/s" tvg-rez="1920x1080" group-title="卫视",湖北卫视
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-speed="10307.5KB/s" tvg-rez="1920x1080" group-title="卫视",江西卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221225492/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-speed="2945.9KB/s" tvg-rez="1920x1080" group-title="卫视",吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-speed="2870.1KB/s" tvg-rez="1920x1080" group-title="卫视",吉林卫视
 http://60.255.49.202/live/jlwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" tvg-speed="2812.5KB/s" tvg-rez="720x576" group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" tvg-speed="2865.3KB/s" tvg-rez="720x576" group-title="卫视",内蒙古卫视
 http://60.255.49.202/live/nmgws_4000.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" tvg-speed="0.0KB/s" tvg-rez="0x0" group-title="卫视",宁夏卫视
-http://140.207.241.2:8080/live/program/live/nxws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" tvg-speed="2921.2KB/s" tvg-rez="720x576" group-title="卫视",山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" tvg-speed="2799.6KB/s" tvg-rez="720x576" group-title="卫视",山西卫视
 http://60.255.49.202/live/sxws42_4000.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-speed="2851.4KB/s" tvg-rez="720x576" group-title="卫视",陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-speed="2841.8KB/s" tvg-rez="720x576" group-title="卫视",陕西卫视
 http://60.255.49.202/live/sxws_4000.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-speed="10270.6KB/s" tvg-rez="1920x1080" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-speed="10336.1KB/s" tvg-rez="1920x1080" group-title="卫视",四川卫视
 http://39.135.140.104:6610/PLTV/88888888/224/3221225487/2/index.m3u8?fmt=ts2hls$江西宜春8M
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-speed="2928.3KB/s" tvg-rez="720x576" group-title="卫视",云南卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-speed="1808.6KB/s" tvg-rez="0x0" group-title="卫视",新疆卫视
+http://140.207.241.2:8080/live/program/live/xjws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-speed="2918.4KB/s" tvg-rez="720x576" group-title="卫视",云南卫视
 http://60.255.49.202/live/ynws_4000.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" tvg-speed="1228.2KB/s" tvg-rez="0x0" group-title="卫视",兵团卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" tvg-speed="1669.2KB/s" tvg-rez="720x540" group-title="卫视",青海卫视
+http://140.207.241.2:8080/live/program/live/qhws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" tvg-speed="1740.7KB/s" tvg-rez="720x540" group-title="卫视",兵团卫视
 http://140.207.241.2:8080/live/program/live/btws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-speed="1442.5KB/s" tvg-rez="720x540" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-speed="1433.1KB/s" tvg-rez="720x540" group-title="卫视",厦门卫视
+http://140.207.241.2:8080/live/program/live/xmws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-speed="740.6KB/s" tvg-rez="720x540" group-title="卫视",金鹰卡通
 http://140.207.241.2:8080/live/program/live/jykt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" tvg-speed="11338.2KB/s" tvg-rez="1920x1080" group-title="数字付费",IPTV5+
-http://39.135.89.100:6610/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河7.5M
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-speed="10741.3KB/s" tvg-rez="1920x1080" group-title="数字付费",CHC高清电影
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" tvg-speed="11320.4KB/s" tvg-rez="1920x1080" group-title="数字付费",IPTV5+
+http://39.135.89.100:6610/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-speed="10830.6KB/s" tvg-rez="1920x1080" group-title="数字付费",CHC高清电影
 http://39.135.89.100:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-speed="10746.3KB/s" tvg-rez="1920x1080" group-title="数字付费",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-speed="10741.7KB/s" tvg-rez="1920x1080" group-title="数字付费",CHC动作电影
 http://39.135.89.100:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" tvg-speed="3163.3KB/s" tvg-rez="1920x1080" group-title="数字付费",CHC家庭电影
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" tvg-speed="3079.2KB/s" tvg-rez="1920x1080" group-title="数字付费",CHC家庭电影
 http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" tvg-speed="3085.1KB/s" tvg-rez="1920x1080" group-title="数字付费",中数风云音乐
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" tvg-speed="3173.2KB/s" tvg-rez="1920x1080" group-title="数字付费",中数风云音乐
 http://60.255.49.202/live/fyyy_4000.m3u8
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" tvg-speed="3104.0KB/s" tvg-rez="1920x1080" group-title="数字付费",中数世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" tvg-speed="3128.4KB/s" tvg-rez="1920x1080" group-title="数字付费",中数世界地理
 http://60.255.49.202/live/sjdl_4000.m3u8
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" tvg-speed="3096.5KB/s" tvg-rez="1920x1080" group-title="数字付费",中数女性时尚
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" tvg-speed="3181.1KB/s" tvg-rez="1920x1080" group-title="数字付费",中数女性时尚
 http://60.255.49.202/live/nxss_4000.m3u8
-#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" tvg-speed="3178.6KB/s" tvg-rez="1920x1080" group-title="数字付费",中数早期教育
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" tvg-speed="3133.2KB/s" tvg-rez="1920x1080" group-title="数字付费",中数早期教育
 http://60.255.49.202/live/zqjy_4000.m3u8
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" tvg-speed="3089.3KB/s" tvg-rez="1920x1080" group-title="数字付费",中数快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" tvg-speed="3082.2KB/s" tvg-rez="1920x1080" group-title="数字付费",中数快乐垂钓
 http://60.255.49.202/live/fyzqklcdHDH265_4000.m3u8
-#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" tvg-speed="2977.9KB/s" tvg-rez="720x576" group-title="数字付费",北广四海钓鱼
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" tvg-speed="2840.0KB/s" tvg-rez="720x576" group-title="数字付费",北广四海钓鱼
 http://60.255.49.202/live/shdy_4000.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-speed="9804.3KB/s" tvg-rez="1920x1080" group-title="北京",北京冬奥纪实
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225667/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-speed="5364.6KB/s" tvg-rez="1920x1080" group-title="上海",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-speed="5343.3KB/s" tvg-rez="1920x1080" group-title="上海",哈哈炫动
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" tvg-speed="1618.2KB/s" tvg-rez="720x540" group-title="上海",七彩戏剧
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" tvg-speed="1641.3KB/s" tvg-rez="720x540" group-title="上海",七彩戏剧
 http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" tvg-speed="5256.7KB/s" tvg-rez="1920x1080" group-title="上海",新视觉
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-speed="5154.8KB/s" tvg-rez="1920x1080" group-title="上海",劲爆体育
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" tvg-speed="5341.1KB/s" tvg-rez="1920x1080" group-title="上海",全纪实
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" tvg-speed="14953.3KB/s" tvg-rez="3840x2160" group-title="上海",欢笑剧场
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" tvg-speed="5338.9KB/s" tvg-rez="1920x1080" group-title="上海",新视觉
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-speed="4435.8KB/s" tvg-rez="1920x1080" group-title="上海",劲爆体育
+http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" tvg-speed="5323.9KB/s" tvg-rez="1920x1080" group-title="上海",全纪实
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" tvg-speed="11705.6KB/s" tvg-rez="3840x2160" group-title="上海",欢笑剧场
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" tvg-speed="4573.1KB/s" tvg-rez="1920x1080" group-title="上海",幸福彩
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" tvg-speed="5148.5KB/s" tvg-rez="1920x1080" group-title="上海",生活时尚
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" tvg-speed="5374.2KB/s" tvg-rez="1920x1080" group-title="上海",游戏风云
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" tvg-speed="3688.6KB/s" tvg-rez="1920x1080" group-title="上海",幸福彩
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" tvg-speed="5766.7KB/s" tvg-rez="1920x1080" group-title="上海",生活时尚
+http://140.207.241.3:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" tvg-speed="5214.6KB/s" tvg-rez="1920x1080" group-title="上海",游戏风云
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" tvg-speed="5609.7KB/s" tvg-rez="1920x1080" group-title="上海",第一财经
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" tvg-speed="5242.2KB/s" tvg-rez="1920x1080" group-title="上海",东方影视
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" tvg-speed="9804.3KB/s" tvg-rez="1920x1080" group-title="上海",上海纪实人文
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" tvg-speed="5479.0KB/s" tvg-rez="1920x1080" group-title="上海",第一财经
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" tvg-speed="5425.7KB/s" tvg-rez="1920x1080" group-title="上海",东方影视
+http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" tvg-speed="9804.6KB/s" tvg-rez="1920x1080" group-title="上海",上海纪实人文
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225688/index.m3u8$广西移动8M
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-speed="5601.6KB/s" tvg-rez="1920x1080" group-title="上海",魅力足球
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" tvg-speed="2902.8KB/s" tvg-rez="1920x1080" group-title="四川",四川文化旅游
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-speed="5273.9KB/s" tvg-rez="1920x1080" group-title="上海",魅力足球
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" tvg-speed="2887.7KB/s" tvg-rez="1920x1080" group-title="四川",四川文化旅游
 http://60.255.49.202/live/SCTV-2-H265_4000.m3u8
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" tvg-speed="2967.4KB/s" tvg-rez="1920x1080" group-title="四川",四川经济
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" tvg-speed="2882.8KB/s" tvg-rez="1920x1080" group-title="四川",四川经济
 http://60.255.49.202/live/SCTV-3-H265_4000.m3u8
-#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" tvg-speed="2822.9KB/s" tvg-rez="1920x1080" group-title="四川",四川新闻
+#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" tvg-speed="2889.2KB/s" tvg-rez="1920x1080" group-title="四川",四川新闻
 http://60.255.49.202/live/SCTV-4H265_4000.m3u8
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" tvg-speed="2889.2KB/s" tvg-rez="1920x1080" group-title="四川",四川妇女儿童频道
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" tvg-speed="2911.6KB/s" tvg-rez="1920x1080" group-title="四川",四川妇女儿童频道
 http://60.255.49.202/live/SCTV-7-_4000.m3u8
-#EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" tvg-speed="2778.9KB/s" tvg-rez="720x576" group-title="四川",成都公共频道
+#EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" tvg-speed="2873.1KB/s" tvg-rez="720x576" group-title="四川",成都公共频道
 http://60.255.49.202/live/CDTV-5_4000.m3u8
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-speed="997.0KB/s" tvg-rez="1920x1080" group-title="广东",珠江频道
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" tvg-speed="1691.8KB/s" tvg-rez="720x540" group-title="广东",嘉佳卡通
+http://140.207.241.2:8080/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-speed="3179.3KB/s" tvg-rez="1920x1080" group-title="广东",珠江频道
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" tvg-speed="11349.4KB/s" tvg-rez="1920x1080" group-title="湖南",金鹰纪实
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" tvg-speed="11357.5KB/s" tvg-rez="1920x1080" group-title="湖南",金鹰纪实
 http://39.135.89.100:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-speed="968.6KB/s" tvg-rez="640x480" group-title="香港",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-speed="1289.7KB/s" tvg-rez="640x480" group-title="香港",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-speed="1283.3KB/s" tvg-rez="1920x1080" group-title="香港",无线新闻台
-https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-speed="12730.4KB/s" tvg-rez="1920x1080" group-title="香港",凤凰卫视中文台
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-speed="12873.6KB/s" tvg-rez="1920x1080" group-title="香港",凤凰卫视资讯台
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-speed="12953.5KB/s" tvg-rez="1920x1080" group-title="香港",凤凰卫视香港台
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-speed="1064.8KB/s" tvg-rez="1280x720" group-title="台湾",民视新闻台
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-speed="12711.3KB/s" tvg-rez="1920x1080" group-title="香港",凤凰卫视中文台
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-speed="12655.9KB/s" tvg-rez="1920x1080" group-title="香港",凤凰卫视资讯台
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-speed="12659.9KB/s" tvg-rez="1920x1080" group-title="香港",凤凰卫视香港台
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-speed="1110.7KB/s" tvg-rez="1280x720" group-title="台湾",民视新闻台
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" tvg-speed="0.0KB/s" tvg-rez="0x0" group-title="台湾",MTV Live HD 音乐频道
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" tvg-speed="1595.2KB/s" tvg-rez="1280x720" group-title="海外",迪士尼频道
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-speed="2222.8KB/s" tvg-rez="0x0" group-title="海外",HBO
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" tvg-speed="1930.3KB/s" tvg-rez="1280x720" group-title="海外",迪士尼频道
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-speed="2180.5KB/s" tvg-rez="0x0" group-title="海外",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" tvg-speed="1231.0KB/s" tvg-rez="1280x720" group-title="海外",NHK
+#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" tvg-speed="1062.6KB/s" tvg-rez="0x0" group-title="海外",NHK
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" tvg-speed="723.4KB/s" tvg-rez="854x480" group-title="海外",尼克儿童频道
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" tvg-speed="1372.2KB/s" tvg-rez="854x480" group-title="海外",尼克儿童频道
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" tvg-speed="537.6KB/s" tvg-rez="854x480" group-title="海外",CBeebies
+#EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" tvg-speed="1389.3KB/s" tvg-rez="854x480" group-title="海外",CBeebies
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
