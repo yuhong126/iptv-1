@@ -26,6 +26,8 @@ http://yd-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 http://39.135.46.246:6610/PLTV/77777777/224/3221225897/index.m3u8?
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国",CCTV奥林匹克频道
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国",CCTV奥林匹克频道
+http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
 
 
 #EXTINF:-1 tvg-id="141" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",TVB翡翠台
