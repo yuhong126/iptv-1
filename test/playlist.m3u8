@@ -29,7 +29,7 @@ http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 
 
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime源码-大陆",翡翠台 
-https://cdn.hkyoutv.com/raw/81.ts 
+https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime源码-大陆",翡翠台 (中英字幕) 
 https://cdn.hkyoutv.com/raw/81b.ts 
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="HKAnime源码-大陆",J2台 
