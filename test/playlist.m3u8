@@ -28,9 +28,42 @@ http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 #http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
 
 
-#EXTINF:-1 tvg-id="141" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",TVB翡翠台
-http://iptv.tvfix.org/hls/jade.m3u8
-#https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime源码-大陆",翡翠台 
+https://cdn.hkyoutv.com/raw/81.ts 
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime源码-大陆",翡翠台 (中英字幕) 
+https://cdn.hkyoutv.com/raw/81b.ts 
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="HKAnime源码-大陆",J2台 
+https://cdn.hkyoutv.com/raw/82.ts 
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="HKAnime源码-大陆",無綫新聞台 
+https://cdn.hkyoutv.com/raw/83.ts 
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HKAnime源码-大陆",明珠台 
+https://cdn.hkyoutv.com/raw/84.ts 
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HKAnime源码-大陆",明珠台 (粵語聲道) 
+https://cdn.hkyoutv.com/raw/84b.ts 
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="HKAnime源码-大陆",無綫財經·資訊台 
+https://cdn.hkyoutv.com/raw/85.ts 
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="HKAnime源码-大陆",ViuTV 
+https://cdn.hkyoutv.com/raw/99.ts 
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="HKAnime源码-大陆",ViuTV Six 
+https://cdn.hkyoutv.com/raw/96.ts
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime-大陆",翡翠台
+https://cdn.hkyoutv.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime-大陆",翡翠台 (中英字幕)
+https://cdn.hkyoutv.com/hls/81b/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="HKAnime-大陆",J2台
+https://cdn.hkyoutv.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="HKAnime-大陆",無綫新聞台
+https://cdn.hkyoutv.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HKAnime-大陆",明珠台
+https://cdn.hkyoutv.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HKAnime-大陆",明珠台 (粵語聲道)
+https://cdn.hkyoutv.com/hls/84b/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="HKAnime-大陆",無綫財經·資訊台
+https://cdn.hkyoutv.com/hls/85/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="HKAnime-大陆",ViuTV
+https://cdn.hkyoutv.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="HKAnime-大陆",ViuTV Six
+https://cdn.hkyoutv.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
 http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
 #http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
