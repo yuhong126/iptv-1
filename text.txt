@@ -1,0 +1,11 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-speed="15MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-6电影
+http://112.25.47.24/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8?p=GITV&area=JS_CMCC_CP
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-speed="4MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-7国防军事
+http://112.25.47.24/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8?p=GITV&area=JS_CMCC_CP
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-speed="15MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-8电视剧
+http://112.25.47.24/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8?p=GITV&area=JS_CMCC_CP
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-speed="6MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-9纪录
+http://112.25.47.24/gitv_live/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-speed="4MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-10科教
+http://112.25.47.24/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
